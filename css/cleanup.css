@@ -1,1 +1,3 @@
-/* write your override styles here */
+div.tag-1 {
+  display: none;
+}
